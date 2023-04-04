@@ -1,0 +1,5 @@
+SolarSteam’s system uses enclosed solar collectors to concentrate sunlight in order to
+generate hot water and steam. The system will operate in conjunction with existing boilers
+and use boiler feed water to provide direct hot water and steam generation. SolarSteam
+systems reduce costs up to 40% by displacing fossil fuels and GHGs by up to 50%
+compared to conventional powered heat generation.
